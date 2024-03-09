@@ -11,3 +11,14 @@ Lista de exercícios.
 5.Escreva um programa que calcule o IMC de um indivíduo, utilizando a fórmula IMC = peso / altura².
 
 6.Escreva um programa que solicita ao usuário o raio do círculo e calcule essa área usando a fórmula A = π * raio²
+
+7.Escreva um programa que solicita ao usuário a largura e o comprimento de um retângulo
+Calcule o perímetro e a área do retângulo, exibindo-os na tela
+
+8.Escreva um programa que solicita ao usuário a massa do objeto e velocidade. Calcule a energia cinética usando a fórmula
+E = (mv²) / 2
+
+9.Escreva um programa que solicita ao usuário o valor do raio de uma esfera. Calcule o volume da esfera utilizando a fórmula
+V = (4/3) * pi * raio³
+
+10.Escreva um programa para testar se idade é maior ou menor do que 18 anos.
