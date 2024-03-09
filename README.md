@@ -9,3 +9,5 @@ Lista de exercícios.
 4.Escreva um programa que calcule a média geométrica entre três números informados pelo usuário.
 
 5.Escreva um programa que calcule o IMC de um indivíduo, utilizando a fórmula IMC = peso / altura².
+
+6.Escreva um programa que solicita ao usuário o raio do círculo e calcule essa área usando a fórmula A = π * raio²
