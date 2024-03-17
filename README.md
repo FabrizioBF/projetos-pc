@@ -47,3 +47,7 @@ votar.
 
 20.Escreva um programa para receber três notas. Depois calcule a média dessas notas e verifique se o estudante foi aprovado, 
 reprovado ou está em recuperação.
+
+21.Escreva um programa para construir duas pilhas p1 e p2.
+
+22.Escreva um programa para construir duas listas: l1 e l2.
