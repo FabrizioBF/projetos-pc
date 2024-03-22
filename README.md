@@ -51,3 +51,32 @@ reprovado ou está em recuperação.
 21.Escreva um programa para construir duas pilhas p1 e p2.
 
 22.Escreva um programa para construir duas listas: l1 e l2.
+
+23.Escreva um programa que leia o dia da semana e apresente uma mensagem informando se é um dia útil, se é um dia de fim de 
+semana ou se é dia inválido.
+
+24.Escreva um programa que peça a altura (ex. 1.78) e o peso (80.5) do usuário e em seguida calcule o imc, informando também
+se está abaixo do peso, se está com peso normal, se está com sobrepeso, se está com obesidade ou se está com obesidade grave.
+
+25.Escreva um programa que leia a idade do usuário e apresente uma mensagem, informando se o usuário é uma criança, 
+adolescente, adulto ou idoso.
+
+26.Escreva um programa que leia dois números inteiros e verifica se o primeiro número é divisível pelo segundo.
+
+27.Escreva um programa que apresente uma sequência de números (1 até 10, por exemplo). Para isso, utilize a instrução 
+while e instrução for.
+
+28.Escreva um programa que imprima uma sequência de números (0 até 100, por exemplo).
+
+29.Escreva um programa para ler números inteiros digitados pelo usuário, depois somar todos eles e exibir o resultado da soma.
+Para encerrar o programa utilize um valor negativo.
+
+30.Escreva um programa simples para calcular a quantidade de vogais em uma frase digitada pelo usuário.
+
+31.Escreva um programa que leia duas palavras digitadas pelo usuário. Depois o programa vai concatenar essas duas 
+palavras e apresentá-las.
+
+32.Escreva um programa que leia uma palavra digitada pelo usuário e depois apresente cada letra separadamente.
+
+33.Escreva um programa que leia uma frase digitada pelo usuário, depois troque a ocorrência da letra “a” pela letra “e” e 
+depois apresente a frase nova.
